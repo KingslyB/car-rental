@@ -4,3 +4,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/Car Rental.iml
+/modules.xml
+/sqldialects.xml
+/vcs.xml
